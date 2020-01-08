@@ -14,5 +14,5 @@ jobs:
           curl -L https://github.com/sstephenson/bats/archive/v0.4.0.tar.gz | tar -xz
           ./bats-0.4.0/install.sh /usr/local
     - run:
-        name: Test circleci-matrix
+        name: Run project setup tests
         command: bats spec/ensure_setup_is_working

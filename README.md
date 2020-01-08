@@ -1,9 +1,9 @@
-# CoKoans
+# CoKoans [![CircleCI](https://circleci.com/gh/luizfnunesmarques/cokoans.svg?style=svg)](https://circleci.com/gh/luizfnunesmarques/cokoans)
 
 Try a new language without needing to setup dependencies. No more dependencies headache or waste time with internet connection.
 - Languages:
   - Ruby
-  
+
 ## Pre dependencies (run on a terminal)
 - A Docker setup working:
  `docker -v `
