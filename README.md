@@ -20,3 +20,6 @@ Try a new language without needing to setup dependencies. No more dependencies h
   * Permission denied when running the script:
     * Give it to it :rocket:
       * `chmod +x ruby-koans`
+
+### credits
+Ruby Koans: https://github.com/edgecase/ruby_koans
