@@ -16,10 +16,10 @@ Try a new language without needing to setup dependencies. No more dependencies h
 - Watch the results: did your challenge pass? If yes, just go through to the next indicated challenge, and run the script again :tada:
 - The files you edit on your machine are always reflected in the running container.
 
-### Common issues
+## Common issues
   * Permission denied when running the script:
     * Give it to it :rocket:
       * `chmod +x ruby-koans`
 
-### credits
+## Credits
 Ruby Koans: https://github.com/edgecase/ruby_koans
