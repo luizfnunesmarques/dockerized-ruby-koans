@@ -9,7 +9,7 @@ class AboutAsserts < Neo::Koan
   def test_assert_truth
     assert false                # This should be true
   end
-saoihsiajsoi
+
   # Enlightenment may be more easily achieved with appropriate
   # messages.
   def test_assert_with_message
