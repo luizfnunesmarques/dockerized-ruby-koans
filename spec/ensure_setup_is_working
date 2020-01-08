@@ -1,0 +1,6 @@
+#!/usr/bin/env bats
+
+@test "Ruby environment is working" {
+	./ruby-koans &
+	[ $? -eq 0 ]
+}
