@@ -1,19 +1,16 @@
-# CoKoans [![CircleCI](https://circleci.com/gh/luizfnunesmarques/cokoans.svg?style=svg)](https://circleci.com/gh/luizfnunesmarques/cokoans)
+# Dockerized Ruby Koans [![CircleCI](https://circleci.com/gh/luizfnunesmarques/dockerized-ruby-koans.svg?style=svg)](https://circleci.com/gh/luizfnunesmarques/cokoans)
 
-Try a new language without needing to setup dependencies. No more dependencies headache or waste time with internet connection.
-- Languages:
-  - Ruby
+Ruby Koans with a container. No more dependency pain :-). Inspired by the work done on [Clojure](https://www.google.com), [Golang](https://github.com/cdarwin) and [Elixir](https://github.com/elixirkoans/elixir-koans).
 
 ## Pre dependencies (run on a terminal)
 - A Docker setup working:
  `docker -v `
 - Clone this repository:
- `https://github.com/luizfnunesmarques/cokoans`
+ `https://github.com/luizfnunesmarques/dockerized-ruby-koans`
 
 ## Playing with your language :rocket:
-  - run your language script, e.g., if you want to try Ruby:
+  - run the koans bash script
   `./ruby-koans`
-- Watch the results: did your challenge pass? If yes, just go through to the next indicated challenge, and run the script again :tada:
 - The files you edit on your machine are always reflected in the running container.
 
 ## Common issues
@@ -21,5 +18,5 @@ Try a new language without needing to setup dependencies. No more dependencies h
     * Give it to it :rocket:
       * `chmod +x ruby-koans`
 
-## Credits
+## Credits for the Koans
 Ruby Koans: https://github.com/edgecase/ruby_koans
