@@ -8,7 +8,7 @@ Ruby Koans with a container. No more dependency pain :-). Inspired by the work d
 - Clone this repository:
  `https://github.com/luizfnunesmarques/dockerized-ruby-koans`
 
-## Playing with your language :rocket:
+## Playing with Ruby
   - run the koans bash script
   `./ruby-koans`
 - The files you edit on your machine are always reflected in the running container.
